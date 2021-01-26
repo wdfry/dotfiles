@@ -6,6 +6,7 @@ set ai
 set number
 set hlsearch
 set ruler
+set backspace=indent,eol,start
 set clipboard=unnamed
 colorscheme peachpuff
 highlight Comment ctermfg=green
